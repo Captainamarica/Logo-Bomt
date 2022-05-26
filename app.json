@@ -1,0 +1,35 @@
+{
+    "name": "Harshith Logo Maker",
+    "description": "A Telegram Bot To Create Cool Logos, Powered By Harshith API",
+    "keywords": [
+        "telegram",
+        "logo maker",
+        "logo",
+        "bot"
+    ],
+    "repository": "https://github.com/Develovepers/LogoMaker",
+    "website": "https://t.me/MutyalaHarshith",
+    "success_url": "https://t.me/MutyalaHarshith",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org"
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org"
+        },
+        "BOT_TOKEN": {
+            "description": "Get this from @BotFather"
+        }
+    },
+    "buildpacks": [
+        { 
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
