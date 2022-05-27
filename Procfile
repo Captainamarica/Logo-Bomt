@@ -1,1 +1,1 @@
-worker: python3 -m harshith
+worker: python3 -m main
