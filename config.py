@@ -10,7 +10,7 @@ API_HASH = getenv("API_HASH")
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-# API By TechZBots || https://t.me/TechZBots
-LOGO_API_URL1 = "https://techzbotsapi.herokuapp.com/logo?text="
+# API By Harshith || https://t.me/MutyalaHarshith
+LOGO_API_URL1 = "https://harshithapi.herokuapp.com/logo?text="
 
-LOGO_API_URL2 = "https://techzbotsapi.herokuapp.com/logo?square=true&text="
+LOGO_API_URL2 = "https://harshithapi.herokuapp.com/logo?square=true&text="
