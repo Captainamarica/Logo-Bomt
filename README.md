@@ -4,6 +4,8 @@
 <p align="center" > <img alt="RepoSize" src="https://img.shields.io/github/repo-size/Develovepers/LogoMaker?label=🗃️ Repo Size&logoColor=blue&style=circle"></p>
 
  ## 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Develovepers&repo=logomaker&theme=social)](https://github.com/Develovepers/logomaker&bg_color=grey)
 • 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝐹𝑜𝑛𝑡𝑠 𝐵𝑦 𝑈𝑠𝑖𝑛𝑔 𝐵𝑜𝑡
 
 • 𝑈𝑠𝑖𝑛𝑔 𝑇ℎ𝑒 𝑇𝑒𝑥𝑡 𝐶𝑟𝑒𝑎𝑡𝑒 𝑎 𝑙𝑜𝑔𝑜
