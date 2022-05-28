@@ -11,3 +11,22 @@
 • Use Like /logo MutyalaHarshith
 
 • Use like /logosq Harshith
+
+• Random Awesome Color Generator (Will Generate All Colors Randomly)
+
+
+• Logos With Strokes & Borders
+Get Direct Telegraph Links Of Images
+
+
+• Can Make Square Logos Or Normal Ones
+
+## Variables
+
+`•App_Name` your Choice
+
+`•Bot_Token` Get this value from [@Botfather](https://t.me/botfather) , as like a string
+
+`•Api_Hash` get this value from [my.telegram.org](https://my.telegram.org/auth) only on this website don't get on third party bots
+
+`•Api_id` get this value from [my.telegram.org](https://my.telegram.org/auth) only on this website don't get on third party bots
