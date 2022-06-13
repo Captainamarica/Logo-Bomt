@@ -1,5 +1,5 @@
 {
-    "name": "Harshith Logo Maker",
+    "name": "Night Vission Logo Maker",
     "description": "A Telegram Bot To Create Cool Logos, Powered By Harshith API",
     "keywords": [
         "telegram",
@@ -7,9 +7,9 @@
         "logo",
         "bot"
     ],
-    "repository": "https://github.com/Develovepers/LogoMaker",
-    "website": "https://t.me/MutyalaHarshith",
-    "success_url": "https://t.me/MutyalaHarshith",
+    "repository": "https://github.com/Captainamarica/Logo-Bomt",
+    "website": "https://t.me/NightVission",
+    "success_url": "https://t.me/NightVission",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
