@@ -7,7 +7,7 @@ from main.logo import generate_logo
 
 START = """
 **🔮 Hello There, You Can Use Me To Create your Logos...**
-➤ Click /help Or The Button Below To Know How To Use Me @MutyalaHarshith
+➤ Click /help Or The Button Below To Know How To Use Me!
 """
 
 HELP = """
@@ -55,7 +55,7 @@ async def logo(bot, message):
     pass
   except Exception as e:
     try:
-      await x.delete()
+      await x.delete() 
     except:
       pass
     return await message.reply_text("`❌ Something Went Wrong...`\n\nReport This Error In @Harshith_Bots")
